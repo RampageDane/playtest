@@ -38,6 +38,7 @@ color: White;
 .canvas {
     box-shadow: 0 3000px rgba(45, 75, 85, 0.3) inset;
     padding-bottom: 0.1%;
+    height: -webkit-fill-available;
 }
 
 h1, h2, h3, h4, h5, h6 {
