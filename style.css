@@ -151,6 +151,11 @@ playtestArt {
   padding-top: 0px;
 }
 
+.appleBadge {
+  width: 100%;
+  padding: 5px;
+}
+
 .bottomCopy {
   padding-bottom: 5px;
 }
