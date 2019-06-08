@@ -151,12 +151,24 @@ playtestArt {
   padding-top: 0px;
 }
 
+.instagramSocialMediaButton {
+
+
+  
+}
+
+.twitterSocialMediaButton {
+
+}
+
+/*Badge is for the listening platform buttons on the Media page. */
 .Badge {
   width: 100%;
   padding: 5px;
   padding-top: 25px;
 }
 
+/*bottomCopy is for the bottom of the page where the copyrite information goes.*/
 .bottomCopy {
   padding-bottom: 5px;
 }
