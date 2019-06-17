@@ -151,16 +151,14 @@ playtestArt {
   padding-top: 0px;
 }
 
-
-.instagramSocialMediaButton {
-
-
+.socialMediaButton {
 
 }
 
-.twitterSocialMediaButton {
-
+.patreonButton {
+  padding-top: 5%;
 }
+
 
 /*Badge is for the listening platform buttons on the Media page. */
 .Badge {
