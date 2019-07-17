@@ -172,6 +172,11 @@ playtestArt {
   padding-top: 25px;
 }
 
+.twitterBlog {
+  overflow:scroll;
+  height: 750px;
+}
+
 /*bottomCopy is for the bottom of the page where the copyrite information goes.*/
 .bottomCopy {
   padding-bottom: 5px;
