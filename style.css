@@ -172,9 +172,9 @@ playtestArt {
   padding-top: 25px;
 }
 
-.twitterBlog {
-  overflow:scroll;
-  height: 750px;
+.Blog iframe {
+  height: 790px;
+  width: 700px;
 }
 
 /*bottomCopy is for the bottom of the page where the copyrite information goes.*/
