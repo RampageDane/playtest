@@ -17,9 +17,9 @@ color: White;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Corben', Georgia, Times, serif;
+    font-family: 'Corben', Courier, Times, serif;
     color: black;
-    text-shadow: 3px 3px #ccc;
+    text-shadow: 2px 2px #ccc;
 }
 
 p, div {
