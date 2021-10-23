@@ -4,6 +4,14 @@ body {
   font-family: Arial;
   padding-top: 1px;
   background: url(images/shattered.png) repeat 0 0;
+  background:
+          /* top, transparent black, faked with gradient */
+          linear-gradient(
+            rgba(0, 0, 0, 0.2),
+            rgba(0, 0, 0, 0.2)
+          ),
+          /* bottom, image */
+          url(images/shattered.png);
 }
 
 .header {
@@ -62,4 +70,15 @@ playtestArt {
   background: #BC3F26;
   position: fixed;
   opacity: 0.9;
+}
+
+@font-face {
+    font-family: 'Overseer';
+    src: url(fonts/overseer.eot);
+    src: url(fonts/overseer.eot?#iefix) format('embedded-opentype'),
+        url(fonts/overseer.woff) format('woff'),
+        url(fonts/overseer.ttf) format('truetype'),
+        url(fonts/overseer.svg#Overseer) format('svg');
+    font-weight: 400;
+    font-style: normal;
 }
